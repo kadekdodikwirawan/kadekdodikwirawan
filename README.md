@@ -2,7 +2,7 @@
 - 👀 I’m interested in any programming language
 - 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on my github page https://kadekdodikwirawan.github.io
+- 📫 You can reach me on my personal page https://www.kadekdodik.my.id
 
 <!---
 kadekdodikwirawan/kadekdodikwirawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
